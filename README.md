@@ -38,11 +38,11 @@ npm start
 
 It will run, and this is the output
 ## Output
-![Output](Output.jpg)
+![Output](https://github.com/Raghvender1205/AlexaCU_Lab_VirtualTour/blob/master/Output.JPG)
 
 Video
 <figure class='video-container'>
     <video controls="true" allowfullscreen="true">
-        <source src="Demo.mp4">
+        <source src="https://github.com/Raghvender1205/AlexaCU_Lab_VirtualTour/blob/master/Demo.mp4">
     </video>
 </figure>
